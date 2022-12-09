@@ -18,8 +18,6 @@
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
-- 🌱 I’m currently learning React
-- 🔭 I’m currently working on React to do list
 - 📫 How to reach me: elena.janecek@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaJan&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
